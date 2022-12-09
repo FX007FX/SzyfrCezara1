@@ -1,1 +1,1 @@
-# SzyfrCezara1
+Program szyfrujący (szyfr cezara) słowa, w zależności od parametru k
